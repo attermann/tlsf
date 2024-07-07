@@ -21,7 +21,9 @@
 	"frameworks": "*",
 	"platforms": "*",
 	"export": {},
-	"flags": [
-		"-I."
-	]
+	"build": {
+		"flags": [
+			"-I."
+		]
+	}
 }
