@@ -2,7 +2,6 @@
 	"name": "tlsf",
 	"version": "0.0.1",
 	"description": "Two-Level Segregated Fit memory allocator implementation",
-	"keywords": "",
 	"repository":
 	{
 		"type": "git",
@@ -17,13 +16,11 @@
 		}
 	],
 	"license": "BSD",
-	"homepage": "",
 	"frameworks": "*",
 	"platforms": "*",
-	"export": {},
 	"build": {
 		"flags": [
-			"-I."
+			"-I ."
 		]
 	}
 }
