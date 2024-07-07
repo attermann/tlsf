@@ -20,5 +20,8 @@
 	"homepage": "",
 	"frameworks": "*",
 	"platforms": "*",
-	"export": {}
+	"export": {},
+	"flags": [
+		"-I."
+	]
 }
