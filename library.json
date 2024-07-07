@@ -1,0 +1,24 @@
+{
+	"name": "tlsf",
+	"version": "0.0.1",
+	"description": "Two-Level Segregated Fit memory allocator implementation",
+	"keywords": "",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/attermann/tlfs.git"
+	},
+	"authors":
+	[
+		{
+			"name": "Matthew Conte",
+			"email": "matt@baisoku.org)",
+			"maintainer": true
+		}
+	],
+	"license": "BSD",
+	"homepage": "",
+	"frameworks": "*",
+	"platforms": "*",
+	"export": {}
+}
